@@ -9,9 +9,9 @@ YouTube videolarının altyazılarını çeken, farklı dillere çeviren ve `.tx
 - `.txt` (Düz metin) ve `.srt` (Zaman damgalı altyazı) formatlarında kaydetme
 - Modern karanlık mod (Dark mode) arayüzü
 
-## Kurulum
+## Kurulum ve Çalıştırma
 
-1. Projeyi klonlayın:
+1. Projeyi bilgisayarınıza klonlayın:
 ```bash
 git clone [https://github.com/HEYDARBEK/youtube-altyazi-studyosu.git](https://github.com/HEYDARBEK/youtube-altyazi-studyosu.git)
 cd youtube-altyazi-studyosu
