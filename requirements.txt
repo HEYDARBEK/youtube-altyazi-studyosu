@@ -1,0 +1,4 @@
+customtkinter
+youtube-transcript-api
+deep-translator
+requests
